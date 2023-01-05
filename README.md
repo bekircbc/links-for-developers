@@ -34,3 +34,43 @@
 
 - [Sketchpad](https://sketchpad.app/)
 
+- [Aggie](https://aggie.io/s9jd6wfesc)
+
+- [edabit](https://edabit.com/collection/ExFASyaNu2htbvgE3)
+
+- [public apis](https://github.com/public-apis/public-apis/blob/master/README.md)
+
+- [Open Weather Map]((https://home.openweathermap.org/users/sign_in)
+
+- [Lodash](https://lodash.com/)
+
+- [jQuery](https://jquery.com/)
+
+- [javascript info](https://javascript.info/currying-partials)
+
+- [Design Patterns](https://www.oodesign.com/)
+
+- [Canva](https://canva.com)
+
+- [babeljs](https://babeljs.io/)
+
+- [Digital Ocean](https://digitalocean.com/)
+
+- [Vitejs](https://vitejs.dev/)
+
+- [rollup.js](https://rollupjs.org/guide/en/)
+
+- [coding game](https://www.codingame.com/contests/spring-challenge-2022)
+
+- [Trello](https://trello.com)
+
+- [Typescript](https://www.typescriptlang.org/docs/handbook/interfaces.html)
+
+- [The movie db api](https://www.themoviedb.org/documentation/api?language=tr)
+
+- [Ezgif Video Git Converter](https://ezgif.com/video-to-gif)
+
+- [Data School](https://www.dataschool.io/how-to-contribute-on-github/)
+
+- [Free Code Camp](https://www.freecodecamp.org/)
+
