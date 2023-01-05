@@ -40,7 +40,7 @@
 
 - [public apis](https://github.com/public-apis/public-apis/blob/master/README.md)
 
-- [Open Weather Map]((https://home.openweathermap.org/users/sign_in)
+- [Open Weather Map](https://home.openweathermap.org/users/sign_in)
 
 - [Lodash](https://lodash.com/)
 
